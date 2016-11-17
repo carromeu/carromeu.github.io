@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/carromeu
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.carromeu.com
+  * I am carromeu (https://keybase.io/carromeu) on keybase.
+  * I have a public key with fingerprint C893 EFAC C7BA 0877 266C  1DB6 05AA 734E E8C5 3221
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01011adcd2d81b3cf8c4a7d3e2ee17c139e6da2e501fc83afe942164e1e8170a1edd0a",
+            "fingerprint": "c893efacc7ba0877266c1db605aa734ee8c53221",
+            "host": "keybase.io",
+            "key_id": "05aa734ee8c53221",
+            "kid": "01011adcd2d81b3cf8c4a7d3e2ee17c139e6da2e501fc83afe942164e1e8170a1edd0a",
+            "uid": "005a512aa874e20ded782bc87ff6bb19",
+            "username": "carromeu"
+        },
+        "service": {
+            "hostname": "www.carromeu.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1479384147,
+    "expire_in": 157680000,
+    "prev": "5e99a6122e6e988b0d12ce4479c9d5729c6c6a2afd44af0ea9f6a7b709ec6c8a",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMIjAnicrZJdbAxRFMe3Xa0qbaVEVURkfEXVmnt3dubOtg+aCJFIRPqgLem6c++Z
+7Wg7s2Znt9ZXpE1fhIj4iq8nHhAllGqQKCEID1ofaUg1+kIRKkKIBHfQJ6/uy8m9
+5///3XNOzq2CYCA/69WevsFF+PGxrPs3jqQCNQuPVm+WDIdnpOhmqRF+B2jikPRi
+jRaXopKMZIQoZxxzgowwMwlTqMbDgAGQxlBYB5VTDBEZmYyEqQm6gpGqAAKCNJki
+4FymUrlkWnYc3IRr2Z7AMqKHwaSMaQaViaZhVWWIG6ocoVQLKwCERcIYI2FscJK+
+QxRn0CSELEe8iUvsT3n/6v9z3ak/OPFRBGFKiaYAljlwjWCDEc00VcNAui9MgmvT
+ZvC7o67rNENK2louide0xcAfrN/JX0VLS0toVBViTrPwJ1zHc5jTJLINnpeI+mYv
+k/itBiP2lxMzLJuLUQpDGtyk5dhSFAkl8ywfjBRNDxNFhHIJNiYsF2KWr4hoKpHF
+8b+BtEBGQNepijAGFXRCDJkjzEARdqbziIZ1pjKVYmpyRaGmDFQ3VaoZmqyDyBB/
+MknYYDuCLaAejQtm0orb1Eu5IG292bN2TCArP5Cbk+3vWCB/3MTRzatxxv6MN5WZ
+27a37kxtJDlTOkNvondmng496/r0eX7QY+mX/Q+rbH0P5H2/Fx98NH4fVA8VvZ7Z
+u6ry5um6qr27Bjv6Glvrk3cr7q841HZh8uyVZcUPivOu3K39cbJ+H68zK9i7ncUf
+h5femPr2SbD+S6RwaN6MJa/mdGSNLMjN5FT1Lsrs6I4b+6+cWn11KPtlyfCMxcvX
+jizu6GyfZJwqvZZuz64r4W32yDtyeD0pOhq8WPjhRUFP11y9Z0LpgU3vSwYKis4N
+OCeG235UH879+u14Ar/d3cf70+uOXM2bnl1b9+lpIv/23mhwzZmaaZcKry+Xz85a
+Bte7ulu2nH9+0K3MdLwpu/wLga5Cmw==
+=eJoQ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/carromeu
+
+==================================================================
