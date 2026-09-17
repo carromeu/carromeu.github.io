@@ -1,0 +1,226 @@
+- title: General information
+  type: map
+  contents:
+    - name: Name
+      value: Camilo Carromeu
+    - name: Position
+      value: Information Technology Analyst, Embrapa Beef Cattle (since March 2011)
+    - name: Teaching
+      value: Collaborating professor, Professional Master's Program in Applied Computing, FACOM/UFMS (since 2013)
+    - name: Location
+      value: Campo Grande, MS, Brazil
+    - name: Languages
+      value: Portuguese (native), English (fluent reading, conversational), Spanish (basic)
+    - name: Lattes
+      value: <a href="http://lattes.cnpq.br/4383081925249086">lattes.cnpq.br/4383081925249086</a>
+    - name: ORCID
+      value: <a href="https://orcid.org/0000-0002-7692-8935">0000-0002-7692-8935</a>
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Computer Science
+      institution: School of Computing (FACOM), Federal University of Mato Grosso do Sul (UFMS)
+      year: 2015 - 2019
+      description:
+        - "Thesis: <i>e-Cattle: An IoT Platform for Precision Livestock</i>."
+        - Software Engineering research line, focused on precision livestock.
+    - title: Specialization in Planning and Tutoring in Open and Distance Education
+      institution: UFMS
+      year: 2007 - 2009
+    - title: M.Sc. in Computer Science
+      institution: FACOM/UFMS
+      year: 2004 - 2007
+      description:
+        - "Dissertation: <i>Software Product Lines in the Generation Process of Web Systems for Research Funding Management</i>."
+        - FUNDECT scholarship.
+    - title: B.Sc. in Computer Science
+      institution: UFMS
+      year: 1999 - 2003
+      description:
+        - Emphasis on Theory of Computation.
+        - "Final project: <i>Quimera: A Tool for Consistency Control between Databases</i>."
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Technical lead of Embrapa I/O
+      institution: Embrapa
+      year: 2021 - present
+      description:
+        - Design and technical coordination of Embrapa's corporate platform for collaborative development, automated delivery and continuous monitoring of agricultural digital assets.
+        - Solution architect on digital agriculture projects (SMIDS, Pheno Sight, AndroLógico, Pasto Certo, Cria Certo, +Precoce Platform).
+    - title: Digital Asset Development Supervisor
+      institution: Embrapa, Corporate IT Management
+      year: Sep 2022 - Dec 2025
+      description:
+        - Standardization of the software engineering practiced across Embrapa's research units.
+    - title: Head of the Information Technology Center
+      institution: Embrapa Beef Cattle
+      year: May 2014 - Aug 2022
+      description:
+        - Coordinator of the PLEASE Lab (Laboratory for Precision Livestock, Environment and Software Engineering).
+    - title: Collaborating professor, Professional Master's Program in Applied Computing
+      institution: FACOM/UFMS
+      year: 2013 - present
+      description:
+        - Software Engineering research line, with emphasis on software product lines, DevOps, IoT and AI applied to agriculture.
+    - title: Information Technology Analyst
+      institution: Embrapa Beef Cattle, Campo Grande, Brazil
+      year: 2011 - present
+      description:
+        - "R&D lines: digital agriculture and precision livestock; software engineering; mobile decision-support applications; IoT for agriculture; development platforms, DevOps and continuous delivery; generative AI applied to software engineering."
+    - title: Assistant Professor
+      institution: UFMS, Coxim Campus and School of Computing
+      year: Sep 2008 - Feb 2011
+      description:
+        - Courses in Systems Analysis, Computer Science, Environmental Engineering and Information Systems programs.
+    - title: Project Manager
+      institution: Software Engineering Laboratory (LEDES/FACOM/UFMS)
+      year: 2001 - 2008
+      description:
+        - Titan Framework, Fênix, SIGFAP family, SIEX, SIGProj, UFMS institutional portals, examination management system.
+
+- title: Areas of expertise
+  type: nested_list
+  contents:
+    - title: Development platforms and DevOps
+      items:
+        - Embrapa I/O, Embrapa I/O Releaser, boilerplates and Embrapa's governance guidelines for mobile applications (2015).
+    - title: Digital livestock and IoT
+      items:
+        - e-Cattle platform, automatic field weighing system (granted patent), BEP - Electronic Cattle Platform.
+    - title: Decision-support apps for farmers
+      items:
+        - Pasto Certo, AndroLógico, Cria Certo, Suplementa Certo, Orçamento Forrageiro, +Precoce Platform, Calendário Sanitário, e-Bovis, e-Land.
+    - title: Remote sensing and computer vision
+      items:
+        - Forage phenotyping with UAVs and deep learning (Pheno Sight, SMIDS); papers in Sensors and Computers and Electronics in Agriculture.
+    - title: Software product lines and application generators
+      items:
+        - Titan Framework, Fênix, SIGFAP family, SIGProj, e-Gov Web/Mobile SPL.
+    - title: Generative AI in software engineering and agriculture
+      items:
+        - Coding assistants, spec-driven development, corporate MCP servers and agent architectures.
+
+- title: Ongoing projects
+  type: time_table
+  contents:
+    - title: Embrapa I/O
+      institution: Embrapa
+      year: 2021 - present
+      description:
+        - Platform for collaborative development, automated delivery and continuous monitoring of agricultural digital assets.
+    - title: SMIDS - Drone and Satellite Image Monitoring System
+      institution: Embrapa
+      year: 2024 - 2027
+      description:
+        - Agricultural monitoring by remote sensing in the Amazon, combining UAVs, nanosatellites and artificial intelligence.
+    - title: Panicum maximum cultivars for the intensification of Brazilian livestock
+      institution: Embrapa
+      year: 2024 - 2032
+    - title: BRNELORE - Embrapa solutions for the genetic improvement of Nellore cattle
+      institution: Embrapa
+      year: 2024 - 2028
+
+- title: Intellectual property
+  type: nested_list
+  contents:
+    - title: Patents
+      items:
+        - "<b>Automatic field weighing system with remote data transmission</b> (BR 10 2014 020091-6), filed in 2014 and granted on March 2, 2021."
+        - "<b>Non-intrusive equipment, method and system for monitoring animal physiological signals and environmental parameters</b> (BR 10 2016 002227-4), filed in 2016."
+    - title: Software registered at the Brazilian patent office, INPI (19)
+      items:
+        - "AndroLógico (2025), Orçamento Forrageiro (2023), BEP - Electronic Cattle Platform (2021), Pasto Certo (2018), e-Land 1.0 (2018), e-Bovis 1.0 (2018), SIGFAP (2017), Titan Framework 3.0 (2015), S.A.C. Gado de Corte (2014), Titan Framework 2.0 (2014), Titan Framework 1.0 (2014), Suplementa Certo (2013), Capacita - Knowledge Management (2013 and 2010), Framework Pantaneiro (2013 and 2010), Pandora-Alumnus (2012), Pandora-Core (2012) and e-SAPI / Portal da Carne (2007)."
+
+- title: Supervision
+  type: nested_list
+  contents:
+    - title: Completed master's theses (co-supervision, FACOM/UFMS)
+      items:
+        - "2024 · Jorcel Martins de Lima · Evaluation of LoRa Technology in IoT Scenarios for Cattle Farming"
+        - "2024 · Thiago de Oliveira Soares · Cloud Synchronization of Livestock Sensor Data"
+        - "2023 · Ygo Aquino Brito · Multi-tenant cloud data synchronization for the e-Cattle platform"
+        - "2021 · Willyan Candido Silva · IoT Communication Bus for a Precision Livestock Platform"
+        - "2020 · Bruno de Abreu Cáceres · A semantic query architecture for sensor data on the service bus"
+        - "2018 · Leandro Borges da Silva · Modeling and Persistence of Sensor Data on the e-Cattle Platform"
+        - "2017 · Gilson Miranda Vargas · FarmSPL: a reuse approach based on a software product line for web applications in the agricultural domain"
+    - title: Master's theses in progress
+      items:
+        - "Dalian Gowert · Integration of a DevOps platform with IoT middleware"
+        - "Vagner da Silva Bezerra · IoT device management on the e-Cattle precision livestock platform"
+        - "Paulo Vítor Monteiro Viana · AI coding assistants for the development of digital assets"
+        - "André Kley · Standardization and automation with container orchestration and GitOps"
+        - "Patrick de Alcantara Strogueia · Testing agricultural digital assets in a DevOps environment"
+    - title: Other
+      items:
+        - 15 undergraduate and specialization final projects supervised at UFMS (2008 to 2010).
+        - 68 examination committees (25 qualifying exams, 19 master's defenses, 18 undergraduate, 5 specialization and 1 doctoral).
+
+- title: Talks and courses (selection)
+  type: time_table
+  contents:
+    - title: Artificial Intelligence Course - Advanced Module
+      institution: Short course
+      year: 2026
+    - title: Digital services and assets - challenges and opportunities for Embrapa
+      institution: Conference talk
+      year: 2026
+    - title: Digital Agriculture, Generative AI and Coding Assistants
+      institution: Conference talk
+      year: 2025
+    - title: AI Coding Assistants and Spec-Driven Development
+      institution: Talk
+      year: 2025
+    - title: Generative AI and Digital Technologies Applied to Agriculture
+      institution: Short course
+      year: 2025
+    - title: The Role of Digital Transformation in Brazilian Food Self-Sufficiency
+      institution: Conference talk
+      year: 2024
+    - title: Embrapa I/O - Collaborative Development, Automated Delivery and Continuous Monitoring Platform
+      institution: CBSoft
+      year: 2023
+    - title: '"Smart Livestock" and "Digital Livestock Ecosystem" series'
+      institution: Conferences, congresses and seminars in Brazil
+      year: 2014 - 2020
+      description:
+        - About 40 talks on precision livestock, Embrapa's mobile apps and digital transformation in livestock farming.
+
+- title: Awards
+  type: time_table
+  contents:
+    - title: Brazil Digital Ozires Silva Award 2022/2023
+      institution: Instituto Brasil Digital
+      year: 2024
+      description:
+        - '"National Reference" classification, "Digital Government" category, for the Embrapa I/O experience.'
+    - title: 1st place, Embrapa National Team Award
+      institution: Embrapa
+      year: 2010
+      description:
+        - Process Analysis and Improvement category, Internship Management process (as external collaborator).
+
+- title: Committees and working groups
+  type: time_table
+  contents:
+    - title: Steering Committee of Embrapa's Experiment Information System (CG-SIExp)
+      institution: Embrapa
+      year: 2022 - present
+    - title: Working Group on Generative Artificial Intelligence
+      institution: Embrapa
+      year: 2025
+      description:
+        - Co-author of the group's technical note.
+    - title: Working Group of the Strategic Digital Transformation Plan
+      institution: Embrapa
+      year: 2022
+    - title: Permanent Commission on Information Systems
+      institution: Embrapa
+      year: 2014 - 2018
+    - title: IT Steering Committee (CGTI)
+      institution: Embrapa, Executive Board
+      year: 2013 - 2017
+      description:
+        - Appointed member representing Embrapa Beef Cattle.

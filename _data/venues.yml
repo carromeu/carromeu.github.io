@@ -1,0 +1,58 @@
+# Siglas de periódicos e eventos usadas no campo `abbr` de _bibliography/papers.bib
+"Sensors":
+  url: https://www.mdpi.com/journal/sensors
+  color: "#1f6f8b"
+
+"COMPAG":
+  url: https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture
+  color: "#e9711c"
+
+"IJWIS":
+  url: https://www.emerald.com/insight/publication/issn/1744-0084
+  color: "#0b5394"
+
+"TGFT":
+  url: https://www.tropicalgrasslands.info/
+  color: "#38761d"
+
+"JAS":
+  url: https://academic.oup.com/jas
+  color: "#741b47"
+
+"Cajuína":
+  url: https://cadernoscajuina.pro.br/
+  color: "#b45f06"
+
+"LNCS":
+  url: https://www.springer.com/series/558
+  color: "#134f5c"
+
+"Embrapa":
+  url: https://www.embrapa.br/
+  color: "#0e6b3b"
+
+"CBSoft":
+  url: https://cbsoft.sbc.org.br/
+  color: "#3d85c6"
+
+"WCAMA":
+  url: https://sol.sbc.org.br/index.php/wcama
+  color: "#6aa84f"
+
+"SBIAgro":
+  url: https://sbiagro.org.br/
+  color: "#674ea7"
+
+"WebMedia":
+  url: https://sol.sbc.org.br/index.php/webmedia
+  color: "#999999"
+
+"ECBS":
+  url: https://ieeexplore.ieee.org/
+  color: "#00629b"
+
+"WMSWM":
+  color: "#999999"
+
+"InWeb":
+  color: "#999999"

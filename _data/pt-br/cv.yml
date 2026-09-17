@@ -1,0 +1,227 @@
+- title: Informações gerais
+  type: map
+  contents:
+    - name: Nome
+      value: Camilo Carromeu
+    - name: Cargo
+      value: Analista de Tecnologia da Informação, Embrapa Gado de Corte (desde março de 2011)
+    - name: Docência
+      value: Professor colaborador do Mestrado Profissional em Computação Aplicada, FACOM/UFMS (desde 2013)
+    - name: Cidade
+      value: Campo Grande, MS, Brasil
+    - name: Idiomas
+      value: Português (nativo), Inglês (leitura fluente, conversação razoável), Espanhol (básico)
+    - name: Lattes
+      value: <a href="http://lattes.cnpq.br/4383081925249086">lattes.cnpq.br/4383081925249086</a>
+    - name: ORCID
+      value: <a href="https://orcid.org/0000-0002-7692-8935">0000-0002-7692-8935</a>
+
+- title: Formação
+  type: time_table
+  contents:
+    - title: Doutorado em Ciência da Computação
+      institution: Faculdade de Computação (FACOM), Universidade Federal de Mato Grosso do Sul (UFMS)
+      year: 2015 - 2019
+      description:
+        - "Tese: <i>e-Cattle: Uma Plataforma de IoT para Pecuária de Precisão</i>."
+        - Linha de pesquisa em Engenharia de Software, com foco em pecuária de precisão.
+    - title: Especialização em Planejamento e Tutoria em Educação a Distância
+      institution: UFMS
+      year: 2007 - 2009
+    - title: Mestrado em Ciência da Computação
+      institution: FACOM/UFMS
+      year: 2004 - 2007
+      description:
+        - "Dissertação: <i>Linha de Produtos de Software no Processo de Geração de Sistemas Web de Apoio à Gestão de Fomento de Projetos</i>."
+        - Bolsista da FUNDECT.
+    - title: Graduação em Ciência da Computação
+      institution: UFMS
+      year: 1999 - 2003
+      description:
+        - Ênfase em Teoria da Computação.
+        - "Trabalho de conclusão: <i>Quimera: Uma Ferramenta de Controle de Consistência entre Banco de Dados</i>."
+
+- title: Experiência
+  type: time_table
+  contents:
+    - title: Coordenação técnica do Embrapa I/O
+      institution: Embrapa
+      year: 2021 - atual
+      description:
+        - Concepção e coordenação técnica da plataforma corporativa de desenvolvimento, entrega automatizada e monitoramento contínuo dos ativos digitais agropecuários da Embrapa.
+        - Arquiteto de solução em projetos de agricultura digital (SMIDS, Pheno Sight, AndroLógico, Pasto Certo, Cria Certo, Plataforma +Precoce).
+    - title: Supervisor de Desenvolvimento de Ativos Digitais
+      institution: Embrapa, Gerência Corporativa de Tecnologia da Informação
+      year: set/2022 - dez/2025
+      description:
+        - Padronização da engenharia de software praticada nas Unidades Descentralizadas da Embrapa.
+    - title: Supervisor do Núcleo de Tecnologia da Informação
+      institution: Embrapa Gado de Corte
+      year: mai/2014 - ago/2022
+      description:
+        - Designado pela Portaria 443/2014 e dispensado pela Portaria 1533/2022.
+        - Coordenação do PLEASE Lab (Laboratory for Precision Livestock, Environment and Software Engineering).
+    - title: Professor colaborador do Mestrado Profissional em Computação Aplicada
+      institution: FACOM/UFMS
+      year: 2013 - atual
+      description:
+        - Linha de pesquisa em Engenharia de Software, com ênfase em linha de produtos de software, DevOps, IoT e IA aplicada ao agro.
+    - title: Analista de Tecnologia da Informação
+      institution: Embrapa Gado de Corte, Campo Grande, MS
+      year: 2011 - atual
+      description:
+        - "Linhas de P&D: agricultura digital e pecuária de precisão; engenharia de software; aplicações móveis de apoio à decisão; IoT aplicada à agropecuária; plataformas de desenvolvimento, DevOps e entrega contínua; IA generativa aplicada à engenharia de software."
+    - title: Professor efetivo
+      institution: UFMS, Campus de Coxim e Faculdade de Computação
+      year: set/2008 - fev/2011
+      description:
+        - Disciplinas nos cursos de Análise de Sistemas, Ciência da Computação, Engenharia Ambiental e Sistemas de Informação.
+    - title: Gerente de projetos
+      institution: Laboratório de Engenharia de Software (LEDES/FACOM/UFMS)
+      year: 2001 - 2008
+      description:
+        - Titan Framework, Fênix, família SIGFAP, SIEX, SIGProj, Portais Institucionais da UFMS, Sistema de Concursos.
+
+- title: Áreas de atuação
+  type: nested_list
+  contents:
+    - title: Plataformas de desenvolvimento e DevOps
+      items:
+        - Embrapa I/O, Embrapa I/O Releaser, boilerplates e diretrizes de governança para aplicativos móveis da Embrapa (2015).
+    - title: Pecuária digital e IoT
+      items:
+        - Plataforma e-Cattle, sistema automático de pesagem em campo (patente concedida), BEP - Plataforma Eletrônica de Bovinos.
+    - title: Aplicativos de apoio à decisão para o produtor
+      items:
+        - Pasto Certo, AndroLógico, Cria Certo, Suplementa Certo, Orçamento Forrageiro, Plataforma +Precoce, Calendário Sanitário, e-Bovis, e-Land.
+    - title: Sensoriamento remoto e visão computacional
+      items:
+        - Fenotipagem de forrageiras com drones e aprendizado profundo (Pheno Sight, SMIDS); artigos na Sensors e na Computers and Electronics in Agriculture.
+    - title: Linhas de produto de software e geradores de aplicação
+      items:
+        - Titan Framework, Fênix, família SIGFAP, SIGProj, e-Gov Web/Mobile SPL.
+    - title: IA generativa na engenharia de software e no agro
+      items:
+        - Assistentes de codificação, desenvolvimento orientado a especificações, servidores MCP corporativos e arquiteturas de agentes.
+
+- title: Projetos vigentes
+  type: time_table
+  contents:
+    - title: Embrapa I/O
+      institution: Embrapa
+      year: 2021 - atual
+      description:
+        - Plataforma de desenvolvimento colaborativo, entrega automatizada e monitoramento contínuo de ativos digitais agropecuários.
+    - title: SMIDS - Sistema de Monitoramento de Imagens por Drones e Satélites
+      institution: Embrapa
+      year: 2024 - 2027
+      description:
+        - Monitoramento agrícola por sensoriamento remoto na Amazônia, combinando drones, nanossatélites e inteligência artificial.
+    - title: Cultivares de Panicum maximum para a intensificação da pecuária brasileira
+      institution: Embrapa
+      year: 2024 - 2032
+    - title: BRNELORE - Soluções Embrapa para evolução genética de bovinos Nelore
+      institution: Embrapa
+      year: 2024 - 2028
+
+- title: Propriedade intelectual
+  type: nested_list
+  contents:
+    - title: Patentes
+      items:
+        - "<b>Sistema automático de pesagem em campo com envio remoto de dados</b> (BR 10 2014 020091-6), depositada em 2014 e concedida em 02/03/2021."
+        - "<b>Equipamento, método e sistema não-intrusivos de monitoramento de sinais fisiológicos de animais e parâmetros ambientais</b> (BR 10 2016 002227-4), depositada em 2016."
+    - title: Programas de computador registrados no INPI (19)
+      items:
+        - "AndroLógico (2025), Orçamento Forrageiro (2023), BEP - Plataforma Eletrônica de Bovinos (2021), Pasto Certo (2018), e-Land 1.0 (2018), e-Bovis 1.0 (2018), SIGFAP (2017), Titan Framework 3.0 (2015), S.A.C. Gado de Corte (2014), Titan Framework 2.0 (2014), Titan Framework 1.0 (2014), Suplementa Certo (2013), Capacita - Gestão de Conhecimento (2013 e 2010), Framework Pantaneiro (2013 e 2010), Pandora-Alumnus (2012), Pandora-Core (2012) e e-SAPI / Portal da Carne (2007)."
+
+- title: Orientações
+  type: nested_list
+  contents:
+    - title: Mestrado concluído (coorientação, FACOM/UFMS)
+      items:
+        - "2024 · Jorcel Martins de Lima · Avaliação da Tecnologia LoRa em Cenários de IoT na Bovinocultura"
+        - "2024 · Thiago de Oliveira Soares · Sincronização de Dados Sensoriais de Pecuária na Nuvem"
+        - "2023 · Ygo Aquino Brito · Sincronização de dados em nuvem para a plataforma e-Cattle utilizando multi-tenant"
+        - "2021 · Willyan Candido Silva · Barramento de Comunicação IoT para Plataforma de Pecuária de Precisão"
+        - "2020 · Bruno de Abreu Cáceres · Uma arquitetura de consulta semântica de dados sensoriais no barramento de serviços"
+        - "2018 · Leandro Borges da Silva · Modelagem e Persistência de Dados Sensoriais na Plataforma e-Cattle"
+        - "2017 · Gilson Miranda Vargas · FarmSPL: uma abordagem de reúso com base em uma LPS para aplicações web no domínio agropecuário"
+    - title: Mestrado em andamento
+      items:
+        - "Dalian Gowert · Integração de plataforma DevOps com middleware IoT"
+        - "Vagner da Silva Bezerra · Gerenciamento de dispositivos IoT na plataforma e-Cattle"
+        - "Paulo Vítor Monteiro Viana · Assistentes de codificação em IA para apoio ao desenvolvimento de ativos digitais"
+        - "André Kley · Padronização e automação com orquestração de contêineres e GitOps"
+        - "Patrick de Alcantara Strogueia · Testes em ambiente DevOps de ativos digitais agropecuários"
+    - title: Outras
+      items:
+        - 15 trabalhos de conclusão de graduação e especialização orientados na UFMS (2008 a 2010).
+        - 68 participações em bancas examinadoras (25 qualificações, 19 defesas de mestrado, 18 de graduação, 5 de especialização e 1 de doutorado).
+
+- title: Palestras e cursos (seleção)
+  type: time_table
+  contents:
+    - title: Curso de Inteligência Artificial - Módulo Avançado
+      institution: Curso ministrado
+      year: 2026
+    - title: Serviços e ativos digitais - desafios e oportunidades para a Embrapa
+      institution: Conferência
+      year: 2026
+    - title: Agricultura Digital, IA Generativa e Assistentes de Codificação
+      institution: Conferência
+      year: 2025
+    - title: Assistentes de Codificação em IA e Spec-Driven Development
+      institution: Palestra
+      year: 2025
+    - title: Inteligência Artificial Generativa e Tecnologias Digitais Aplicadas à Agropecuária
+      institution: Curso ministrado
+      year: 2025
+    - title: O Papel da Transformação Digital na Autossuficiência Alimentar Brasileira
+      institution: Conferência
+      year: 2024
+    - title: Embrapa I/O - Plataforma de Desenvolvimento Colaborativo, Entrega Automatizada e Monitoramento Contínuo
+      institution: CBSoft
+      year: 2023
+    - title: 'Série "Smart Livestock" e "Ecossistema Digital da Pecuária"'
+      institution: Conferências, congressos e seminários no Brasil
+      year: 2014 - 2020
+      description:
+        - Cerca de 40 apresentações sobre pecuária de precisão, aplicativos móveis da Embrapa e transformação digital na pecuária.
+
+- title: Prêmios
+  type: time_table
+  contents:
+    - title: Prêmio Brasil Digital Ozires Silva 2022/2023
+      institution: Instituto Brasil Digital
+      year: 2024
+      description:
+        - Classificação "Referência Nacional", categoria "Governo Digital", pela experiência Embrapa I/O.
+    - title: 1º lugar na Premiação Nacional de Equipes
+      institution: Embrapa
+      year: 2010
+      description:
+        - Categoria Análise e Melhoria de Processos, processo Gerenciamento de Estágios (como colaborador externo).
+
+- title: Comitês e grupos de trabalho
+  type: time_table
+  contents:
+    - title: Comitê Gestor do Sistema de Informações de Experimentos da Embrapa (CG-SIExp)
+      institution: Embrapa
+      year: 2022 - atual
+    - title: Grupo de Trabalho sobre Inteligência Artificial Generativa
+      institution: Embrapa
+      year: 2025
+      description:
+        - Coautor da nota técnica do grupo.
+    - title: Grupo de Trabalho do Plano Estratégico de Transformação Digital
+      institution: Embrapa
+      year: 2022
+    - title: Comissão Permanente de Sistemas de Informação
+      institution: Embrapa
+      year: 2014 - 2018
+    - title: Comitê Gestor de Tecnologia da Informação (CGTI)
+      institution: Embrapa, Diretoria Executiva
+      year: 2013 - 2017
+      description:
+        - Membro indicado, representando a Embrapa Gado de Corte.

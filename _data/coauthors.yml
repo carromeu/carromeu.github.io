@@ -1,0 +1,6 @@
+# Coautores com página própria (usado para linkar nomes na lista de publicações).
+# Formato:
+# "sobrenome":
+#   - firstname: ["Nome", "N."]
+#     url: https://exemplo.com
+{}
