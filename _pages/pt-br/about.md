@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: sobre
 permalink: /
-subtitle: Analista de TI na <a href="https://www.embrapa.br/gado-de-corte">Embrapa Gado de Corte</a> · Doutor em Ciência da Computação · Campo Grande, MS
+subtitle: <a href="https://www.embrapa.br/equipe/-/empregado/354215/camilo-carromeu">Analista de TI</a> na <a href="https://www.embrapa.br/gado-de-corte">Embrapa Gado de Corte</a> · Doutor em Ciência da Computação · Campo Grande, MS
 
 profile:
   align: right
@@ -13,6 +13,7 @@ profile:
     <p>Embrapa Gado de Corte</p>
     <p>Núcleo de Tecnologia da Informação</p>
     <p>Campo Grande, MS, Brasil</p>
+    <p><a href="https://www.embrapa.br/equipe/-/empregado/354215/camilo-carromeu">Página institucional na Embrapa</a></p>
 
 selected_papers: true
 social: true

@@ -7,3 +7,7 @@ github_username: carromeu
 linkedin_username: camilo.carromeu
 x_username: ccarromeu
 # scholar_userid: # preencher quando houver perfil no Google Scholar
+embrapa: # página institucional na Embrapa (ícone de prédio do Font Awesome, com título próprio)
+  logo: fa-solid fa-building
+  title: Página institucional na Embrapa
+  url: https://www.embrapa.br/equipe/-/empregado/354215/camilo-carromeu
