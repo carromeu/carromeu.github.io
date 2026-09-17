@@ -395,6 +395,6 @@
   <script
     defer
     src="{{ site.posthog_host | replace: '.i.posthog.com', '-assets.i.posthog.com' }}/static/array.js"
-    onload="posthog.init('{{ site.posthog_api_key }}', { api_host: '{{ site.posthog_host }}', person_profiles: 'identified_only', autocapture: false, capture_pageview: true, capture_pageleave: true, disable_session_recording: true })"
+    onload="posthog.init('{{ site.posthog_api_key }}', { api_host: '{{ site.posthog_host }}', person_profiles: 'identified_only', autocapture: false, capture_pageview: true, capture_pageleave: true, disable_session_recording: true, disable_surveys: true })"
   ></script>
 {% endif %}
