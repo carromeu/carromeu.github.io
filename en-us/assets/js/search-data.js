@@ -139,6 +139,13 @@ ninja.data = [{
           window.open("https://twitter.com/ccarromeu", "_blank");
         },
       },{
+        id: 'social-embrapa',
+        title: 'Embrapa',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.embrapa.br/equipe/-/empregado/354215/camilo-carromeu", "_blank");
+        },
+      },{
           id: 'lang-pt-br',
           title: 'pt-br',
           section: 'Languages',
