@@ -356,7 +356,7 @@ external_links:
 
 languages: ["pt-br", "en-us"]
 default_lang: "pt-br"
-exclude_from_localization: ["assets"]
+exclude_from_localization: ["assets", "sitemap.xml", "robots.txt", "CNAME"] # não duplicar nos idiomas
 lang_from_path: true
 country_flag: false # set true for allowing flag symbol in language toggle
 parallel_localization: false

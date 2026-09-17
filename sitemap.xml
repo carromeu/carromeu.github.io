@@ -1,0 +1,28 @@
+---
+permalink: /sitemap.xml
+lang: pt-br
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+{%- comment -%}
+Sitemap próprio: o jekyll-sitemap não enxerga as versões em outros idiomas geradas pelo jekyll-polyglot.
+Gerado só na build do idioma padrão (lang: pt-br); lista cada página HTML em todos os idiomas, com hreflang.
+{%- endcomment -%}
+{%- assign docs = site.pages | concat: site.projects -%}
+{%- for doc in docs -%}
+  {%- if doc.sitemap == false or doc.redirect -%}{%- continue -%}{%- endif -%}
+  {%- if doc.url contains '.' -%}{%- continue -%}{%- endif -%}
+  {%- for lang in site.languages -%}
+    {%- if lang == site.default_lang -%}{%- assign prefix = '' -%}{%- else -%}{%- assign prefix = '/' | append: lang -%}{%- endif %}
+  <url>
+    <loc>{{ site.url }}{{ prefix }}{{ doc.url }}</loc>
+    {%- for alt in site.languages -%}
+      {%- if alt == site.default_lang -%}{%- assign alt_prefix = '' -%}{%- else -%}{%- assign alt_prefix = '/' | append: alt -%}{%- endif %}
+    <xhtml:link rel="alternate" hreflang="{{ alt }}" href="{{ site.url }}{{ alt_prefix }}{{ doc.url }}" />
+    {%- endfor %}
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ doc.url }}" />
+  </url>
+  {%- endfor -%}
+{%- endfor %}
+</urlset>
