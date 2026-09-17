@@ -1,3 +1,6 @@
 _site/
 .git/
-assets/
+vendor/
+.bundle/
+photos/
+.playwright-mcp/

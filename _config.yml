@@ -77,7 +77,7 @@ pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
 
 # PostHog (analytics) e Sentry (erros): preencher e ligar em "Optional Features"
-posthog_api_key: # chave pública do projeto no PostHog (formato: phc_...)
+posthog_api_key: phc_s5cmTqukijRKUdyYTBDFxcNMPGVTgvVXvosi5SWjHQaL # projeto 614570, US Cloud
 posthog_host: https://us.i.posthog.com # ou https://eu.i.posthog.com
 sentry_loader_script: https://js.sentry-cdn.com/0d76e222d510197f01fabb76a7c83edb.min.js # projeto carromeu/carromeu-com
 
@@ -398,7 +398,7 @@ enable_google_analytics: false # enables google analytics
 enable_cronitor_analytics: false # enables cronitor RUM analytics
 enable_pirsch_analytics: false # enables Pirsch analytics (https://pirsch.io/)
 enable_openpanel_analytics: false # enables Openpanel analytics (https://openpanel.dev/)
-enable_posthog_analytics: false # enables PostHog analytics (preencher posthog_api_key)
+enable_posthog_analytics: true # enables PostHog analytics (preencher posthog_api_key)
 enable_sentry: true # enables Sentry error monitoring (preencher sentry_loader_script)
 enable_google_verification: false # enables google site verification
 enable_bing_verification: false # enables bing site verification
