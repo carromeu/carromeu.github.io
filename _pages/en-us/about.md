@@ -1,7 +1,7 @@
 ---
 page_id: about
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href="https://www.embrapa.br/equipe/-/empregado/354215/camilo-carromeu">IT Analyst</a> at <a href="https://www.embrapa.br/en/gado-de-corte">Embrapa Beef Cattle</a> · Ph.D. in Computer Science · Campo Grande, Brazil
 

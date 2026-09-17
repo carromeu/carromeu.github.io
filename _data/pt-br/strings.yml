@@ -16,16 +16,16 @@ bibliography:
   video: Vídeo
   website: Site
 blog:
-  navigation_title: blog
+  navigation_title: Blog
 categories:
-  atuais: atuais
-  historico: histórico
+  atuais: Atuais
+  historico: Histórico
 citation:
   bibtex: "ou como uma citação em BibTeX:"
   introduction: "Se você achou isso útil, por favor cite como:"
 collections:
   books: livros
-  posts: postagens
+  posts: Postagens
 contact_note: Prefiro contato por e-mail. Para produção acadêmica completa, consulte o Lattes.
 cv:
   address: Endereço
@@ -85,7 +85,7 @@ footer:
 footer_text: >
   Feito com <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> e o tema <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>.
   Hospedado no <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-latest_posts: últimas postagens
+latest_posts: Últimas postagens
 months:
   long:
     january: Janeiro
@@ -113,7 +113,7 @@ months:
     october: Out
     november: Nov
     december: Dez
-news: novidades
+news: Novidades
 newsletter:
   back: Voltar
   error: "Oops! Algo deu errado, por favor tente novamente."
@@ -159,5 +159,5 @@ search:
     description: Muda o tema do site para o padrão do sistema
     title: Usa o tema padrão do sistema
   theme: Tema
-selected_publications: publicações selecionadas
+selected_publications: Publicações Selecionadas
 site_description: "Camilo Carromeu: engenharia de software para a pecuária digital. Analista de TI da Embrapa Gado de Corte, doutor em Ciência da Computação, líder técnico do Embrapa I/O."

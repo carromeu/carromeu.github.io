@@ -1,7 +1,7 @@
 ---
 page_id: projects
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: Platforms, apps and systems I built or helped build, from LEDES/UFMS to Embrapa I/O.
 nav: true

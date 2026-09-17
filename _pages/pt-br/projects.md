@@ -1,7 +1,7 @@
 ---
 page_id: projects
 layout: page
-title: projetos
+title: Projetos
 permalink: /projects/
 description: Plataformas, aplicativos e sistemas que construí ou ajudei a construir, do LEDES/UFMS ao Embrapa I/O.
 nav: true

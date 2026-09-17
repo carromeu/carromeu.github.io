@@ -1,7 +1,7 @@
 ---
 page_id: about
 layout: about
-title: sobre
+title: Sobre
 permalink: /
 subtitle: <a href="https://www.embrapa.br/equipe/-/empregado/354215/camilo-carromeu">Analista de TI</a> na <a href="https://www.embrapa.br/gado-de-corte">Embrapa Gado de Corte</a> · Doutor em Ciência da Computação · Campo Grande, MS
 
