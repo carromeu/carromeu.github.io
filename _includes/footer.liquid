@@ -10,7 +10,7 @@
   {% endif %}
   {% if site.last_updated %}
     {{- site.data[site.active_lang].strings.footer.last_updated }}
-    {{ 'now' | date: '%B %d, %Y' }}.
+    {% capture today %}{{ 'now' | date: '%Y-%m-%d' }}{% endcapture %}{% include date_format.liquid date=today format='long' %}.
   {% endif %}
 {% endcapture %}
 

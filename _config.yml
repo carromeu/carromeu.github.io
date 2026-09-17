@@ -94,11 +94,11 @@ lsi: false # produce an index for related posts
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false # site sem blog
   title: ":title - pagination.page :num"
 
 related_blog_posts:
-  enabled: true
+  enabled: false # site sem blog
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -117,7 +117,7 @@ giscus:
   emit_metadata: 0
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: multi-language-al-folio # put your disqus shortname
+disqus_shortname: # não usado
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -201,7 +201,6 @@ plugins:
   - jekyll-cache-bust
   - jekyll-email-protect
   - jekyll-feed
-  - jekyll-get-json
   - jekyll-imagemagick
   - jekyll-jupyter-notebook
   - jekyll-link-attributes
@@ -226,6 +225,9 @@ defaults:
       sitemap: false
 
 sass:
+  quiet_deps: true
+  # silencia avisos de depreciação do Dart Sass gerados pelos arquivos do tema (não são nossos)
+  silence_deprecations: [import, global-builtin, if-function, color-functions]
   sourcemap: never
   style: compressed
 
@@ -645,18 +647,4 @@ third_party_libraries:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-# jekyll_get_json: não usado (o currículo vem de _data/<lang>/cv.yml)
-
-jsonresume:
-  - basics
-  - work
-  - education
-  - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
-  - skills
-  - languages
-  - interests
-  - references
+jekyll_get_json: [] # não usado (o currículo vem de _data/<idioma>/cv.yml); lista vazia evita o aviso "No config"

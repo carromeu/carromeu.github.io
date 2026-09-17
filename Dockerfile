@@ -29,8 +29,8 @@ ENV EXECJS_RUNTIME=Node \
 
 WORKDIR /srv/jekyll
 
-# instala as gems a partir do Gemfile (o Gemfile.lock não é versionado; é gerado aqui)
-COPY Gemfile /srv/jekyll/
+# instala as gems exatamente como travadas no Gemfile.lock (versionado)
+COPY Gemfile Gemfile.lock /srv/jekyll/
 RUN gem install --no-document bundler && \
     bundle install --no-cache
 
