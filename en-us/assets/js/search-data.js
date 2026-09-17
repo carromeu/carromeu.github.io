@@ -15,27 +15,27 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation menu",
     handler: () => {
       window.location.href = "/en-us/";
     },
   },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "Platforms, apps and systems I built or helped build, from LEDES/UFMS to Embrapa I/O.",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/en-us/projects/";
           },
         },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "Selected journal articles, book chapters and conference papers. The full list is on the Lattes CV.",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/en-us/publications/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "A structured summary of education, experience, projects, intellectual property, supervision and awards. The exhaustive version is on the Lattes CV.",
           section: "Navigation menu",
           handler: () => {
