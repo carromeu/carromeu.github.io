@@ -129,7 +129,14 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Redes sociais',
         handler: () => {
-          window.open("https://www.linkedin.com/in/carromeu", "_blank");
+          window.open("https://www.linkedin.com/in/camilo.carromeu", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Redes sociais',
+        handler: () => {
+          window.open("https://twitter.com/ccarromeu", "_blank");
         },
       },{
           id: 'lang-en-us',
